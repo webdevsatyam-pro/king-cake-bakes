@@ -1,5 +1,4 @@
-import React from "react";
-("use client");
+"use client";
 import React from "react";
 import { motion } from "framer-motion";
 import { ShoppingBag, ArrowRight } from "lucide-react";
